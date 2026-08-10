@@ -1,0 +1,11 @@
+job_id,title,company,location,description
+1,Machine Learning Engineer,TechCorp,Bangalore,"We are looking for a Machine Learning Engineer with experience in Python, machine learning, scikit-learn, PyTorch, SQL and Docker."
+2,Data Scientist,DataWorks,Delhi,"Looking for a Data Scientist skilled in Python, SQL, pandas, NumPy, machine learning, statistics and visualization."
+3,Backend Developer,CloudTech,Bangalore,"Backend developer required with Python, FastAPI, REST APIs, PostgreSQL, Docker and Git experience."
+4,AI Engineer,AI Labs,Hyderabad,"AI Engineer with knowledge of Python, deep learning, PyTorch, TensorFlow, NLP and computer vision."
+5,Data Analyst,Analytics Inc,Mumbai,"Data Analyst with strong SQL, Python, Excel, Power BI, statistics and data visualization skills."
+6,NLP Engineer,LanguageAI,Bangalore,"NLP Engineer experienced in Python, NLP, transformers, BERT, Hugging Face, PyTorch and machine learning."
+7,Software Engineer,CodeBase,Pune,"Software Engineer with Python, Java, SQL, Git, Docker and REST API development experience."
+8,ML Engineer,VisionTech,Chennai,"Machine Learning Engineer with Python, TensorFlow, PyTorch, OpenCV, computer vision and deep learning."
+9,Data Engineer,DataFlow,Delhi,"Data Engineer with Python, SQL, PostgreSQL, ETL, Docker, AWS and data pipelines experience."
+10,AI Developer,FutureAI,Noida,"AI Developer skilled in Python, machine learning, deep learning, NLP, LLMs and LangChain."
