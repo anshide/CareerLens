@@ -2,6 +2,8 @@
 
 CareerLens is an AI-powered job matching system that recommends jobs based on your resume. It analyzes both semantic meaning and specific skills to provide accurate job recommendations.
 
+> **Note**: Currently, only the backend API is ready. The frontend application will be added soon.
+
 ## Features
 
 - **Semantic Matching**: Uses Natural Language Processing (NLP) and embeddings to match the meaning of the resume against job descriptions.
@@ -18,7 +20,18 @@ CareerLens is an AI-powered job matching system that recommends jobs based on yo
 
 ## Usage
 
-You can test the pipeline by running the provided script:
+### Running the API
+
+```bash
+cd backend
+uvicorn app.main:app --reload
+```
+
+The API will be available at `http://127.0.0.1:8000`. You can also access the interactive API documentation at `http://127.0.0.1:8000/docs`.
+
+### Testing the Pipeline
+
+You can test the pipeline locally by running the provided script:
 
 ```bash
 cd backend

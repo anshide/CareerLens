@@ -1,6 +1,6 @@
-from nlp.preprocessing import clean_text, load_jobs
-from nlp.skill_extractor import extract_skills
-from nlp.embeddings import create_embeddings
+from app.nlp.preprocessing import clean_text, load_jobs
+from app.nlp.skill_extractor import extract_skills
+from app.nlp.embeddings import create_embeddings
 
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -10,7 +10,7 @@ def load_resume(resume_path):
     Load the resume text from a PDF.
     """
 
-    from utils.pdf_parser import extract_text_from_pdf
+    from app.utils.pdf_parser import extract_text_from_pdf
 
     resume_text = extract_text_from_pdf(resume_path)
 
