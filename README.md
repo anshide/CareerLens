@@ -2,7 +2,6 @@
 
 CareerLens is an AI-powered job matching system that recommends jobs based on your resume. It analyzes both semantic meaning and specific skills to provide accurate job recommendations.
 
-> **Note**: Currently, only the backend API is ready. The frontend application will be added soon.
 
 ## Features
 
@@ -16,9 +15,19 @@ CareerLens is an AI-powered job matching system that recommends jobs based on yo
   - `matcher.py`: Main logic to process resumes and match with jobs.
   - `nlp/`: NLP and embedding modules.
 - `backend/data/`: Data folder containing resumes and job listings (e.g., CSV, PDF).
-- `frontend/`: (Upcoming) Frontend application for user interaction.
+- `frontend/`: React frontend application built with Vite.
 
 ## Usage
+
+### Running the Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The frontend will be available at `http://localhost:5173`.
 
 ### Running the API
 
