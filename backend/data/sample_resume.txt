@@ -1,0 +1,15 @@
+Ansh Sidana
+
+Robotics and Artificial Intelligence student.
+
+Skills:
+Python, SQL, Machine Learning, Deep Learning, OpenCV,
+React, JavaScript, Git, NumPy, Pandas, scikit-learn.
+
+Projects:
+Built a machine learning based handwritten digit classifier.
+Developed a React and Node.js multiplayer game.
+Worked on robotics and computer vision projects.
+
+Experience with Python programming, machine learning,
+computer vision, SQL and web development.
